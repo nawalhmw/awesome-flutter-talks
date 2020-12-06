@@ -1,5 +1,3 @@
-# 🆕_To view the latest version of this repo, head to the original repo_ ➡ [**Rahiche/awesome-flutter-talks**](https://github.com/Rahiche/awesome-flutter-talks)🆕
----
 # Awesome Flutter Talks 
 A list of Flutter related talks that i watched and enjoyed. I'll update the list whever i watch a new talk that i think is a good fit for the list . Suggestions are always appreciated through a pull request .
 
